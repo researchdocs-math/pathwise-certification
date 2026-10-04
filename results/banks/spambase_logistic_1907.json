@@ -1,0 +1,13 @@
+{
+  "dataset": "spambase",
+  "family": "logistic",
+  "seed": 1907,
+  "train_n": 2000,
+  "test_n": 1381,
+  "queries": 24,
+  "search_seconds": 0.9607135000114795,
+  "cert_seconds": 0.9557980420067906,
+  "eval_seconds": 1.375448457984021,
+  "total_seconds": 3.3316573330084793,
+  "device": "cpu"
+}

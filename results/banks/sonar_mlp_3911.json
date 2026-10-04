@@ -1,0 +1,13 @@
+{
+  "dataset": "sonar",
+  "family": "mlp",
+  "seed": 3911,
+  "train_n": 145,
+  "test_n": 63,
+  "queries": 24,
+  "search_seconds": 1.5702738330001011,
+  "cert_seconds": 11.17374362499686,
+  "eval_seconds": 21.345205541991163,
+  "total_seconds": 34.139202374994056,
+  "device": "mps"
+}

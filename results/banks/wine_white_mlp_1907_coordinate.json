@@ -1,0 +1,14 @@
+{
+  "dataset": "wine_white",
+  "family": "mlp",
+  "seed": 1907,
+  "train_n": 2000,
+  "test_n": 1470,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 4.234918750007637,
+  "eval_seconds": 8.60873045900371,
+  "total_seconds": 13.129365166998468,
+  "device": "mps",
+  "path_kind": "coordinate"
+}

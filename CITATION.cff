@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the pathwise certification experiments."
+title: "Pathwise Counterfactual Certification"
+type: software
+version: 1.0.0
+date-released: "2026-10-03"
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    affiliation: "School of Computing, Georgia Southern University"
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    email: cemil@fairesresearch.org
+keywords:
+  - counterfactual explanations
+  - model retraining
+  - sequential inference
+  - robustness
+  - reproducibility
+abstract: >-
+  Implementation and reproducible experiments for finite-path counterfactual
+  certification under a specified bootstrap retraining law. The package includes
+  exact-law Monte Carlo experiments, paired tabular path benchmarks, archived
+  prediction banks, and independent robustness audits.

@@ -1,0 +1,14 @@
+{
+  "dataset": "breast",
+  "family": "logistic",
+  "seed": 2909,
+  "train_n": 398,
+  "test_n": 171,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 0.6878857919946313,
+  "eval_seconds": 0.8351140830200166,
+  "total_seconds": 1.9320151669962797,
+  "device": "cpu",
+  "path_kind": "coordinate"
+}

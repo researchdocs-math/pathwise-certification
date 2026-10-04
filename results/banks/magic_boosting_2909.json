@@ -1,0 +1,13 @@
+{
+  "dataset": "magic",
+  "family": "boosting",
+  "seed": 2909,
+  "train_n": 2000,
+  "test_n": 5706,
+  "queries": 24,
+  "search_seconds": 1.1875755420187488,
+  "cert_seconds": 3.9903681249998044,
+  "eval_seconds": 7.3351607079966925,
+  "total_seconds": 12.564811250020284,
+  "device": "cpu"
+}

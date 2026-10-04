@@ -1,0 +1,82 @@
+{
+  "breast": {
+    "uci_id": 17,
+    "source": "https://archive.ics.uci.edu/static/public/17/breast+cancer+wisconsin+diagnostic.zip",
+    "source_sha256": "bc154869ef13f753f9e2b5a17e248cfe1ba4b6721db7c4da9f4880e40b05d3af",
+    "member": "wdbc.data",
+    "rows": 569,
+    "features": 30,
+    "positive_rate": 0.6274165202108963,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "ionosphere": {
+    "uci_id": 52,
+    "source": "https://archive.ics.uci.edu/static/public/52/ionosphere.zip",
+    "source_sha256": "4d218ece62756c99659011a13052d06464f13cb2b3d0410ce2aef16de1403860",
+    "member": "ionosphere.data",
+    "rows": 351,
+    "features": 34,
+    "positive_rate": 0.6410256410256411,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "sonar": {
+    "uci_id": 151,
+    "source": "https://archive.ics.uci.edu/static/public/151/connectionist+bench+sonar+mines+vs+rocks.zip",
+    "source_sha256": "088b0b6813fb5ab84736bc2a1e3d6bb886e317520d2f2c04152e2ed65af7a18d",
+    "member": "sonar.all-data",
+    "rows": 208,
+    "features": 60,
+    "positive_rate": 0.46634615384615385,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "banknote": {
+    "uci_id": 267,
+    "source": "https://archive.ics.uci.edu/static/public/267/banknote+authentication.zip",
+    "source_sha256": "1e2acd9a2085fadf3d8145c12d3d22af853320d52294a6590c2eaf75fdc05227",
+    "member": "data_banknote_authentication.txt",
+    "rows": 1372,
+    "features": 4,
+    "positive_rate": 0.4446064139941691,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "spambase": {
+    "uci_id": 94,
+    "source": "https://archive.ics.uci.edu/static/public/94/spambase.zip",
+    "source_sha256": "813ac1df8effac70463c09c9c4b11e8803eefcab54771af66150852bcdcd1636",
+    "member": "spambase.data",
+    "rows": 4601,
+    "features": 57,
+    "positive_rate": 0.39404477287546186,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "wine_red": {
+    "uci_id": 186,
+    "source": "https://archive.ics.uci.edu/static/public/186/wine+quality.zip",
+    "source_sha256": "3ed56667f4b828242bd732d7d1dd7f2861e54432239d7fa63877014cbb0304d4",
+    "member": "winequality-red.csv",
+    "rows": 1599,
+    "features": 11,
+    "positive_rate": 0.5347091932457786,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "wine_white": {
+    "uci_id": 186,
+    "source": "https://archive.ics.uci.edu/static/public/186/wine+quality.zip",
+    "source_sha256": "3ed56667f4b828242bd732d7d1dd7f2861e54432239d7fa63877014cbb0304d4",
+    "member": "winequality-white.csv",
+    "rows": 4898,
+    "features": 11,
+    "positive_rate": 0.6651694569211923,
+    "license": "CC BY 4.0; original data ownership retained"
+  },
+  "magic": {
+    "uci_id": 159,
+    "source": "https://archive.ics.uci.edu/static/public/159/magic+gamma+telescope.zip",
+    "source_sha256": "252e0a78333c108d0ea54537b61154aa781e95a15675e65ddf9b76993617191d",
+    "member": "magic04.data",
+    "rows": 19020,
+    "features": 10,
+    "positive_rate": 0.6483701366982124,
+    "license": "CC BY 4.0; original data ownership retained"
+  }
+}

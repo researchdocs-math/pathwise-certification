@@ -1,0 +1,14 @@
+{
+  "dataset": "ionosphere",
+  "family": "mlp",
+  "seed": 2909,
+  "train_n": 245,
+  "test_n": 106,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 9.753510875016218,
+  "eval_seconds": 21.235476249974454,
+  "total_seconds": 31.371830292016966,
+  "device": "mps",
+  "path_kind": "coordinate"
+}

@@ -1,0 +1,56 @@
+{
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "packages": {
+    "numpy": "1.26.3",
+    "scipy": "1.11.4",
+    "scikit-learn": "1.4.0",
+    "matplotlib": "3.8.2",
+    "torch": "2.4.1"
+  },
+  "config": {
+    "datasets": [
+      "breast",
+      "ionosphere",
+      "sonar",
+      "banknote",
+      "spambase",
+      "wine_red",
+      "wine_white",
+      "magic"
+    ],
+    "families": [
+      "logistic",
+      "boosting",
+      "mlp"
+    ],
+    "seeds": [
+      1907,
+      2909,
+      3911
+    ],
+    "training_cap": 2000,
+    "queries": 24,
+    "path_points": 64,
+    "search_models": 32,
+    "certification_models": 512,
+    "evaluation_models": 1024,
+    "looks": [
+      32,
+      64,
+      96,
+      128,
+      192,
+      256,
+      384,
+      512
+    ],
+    "tau": 0.95,
+    "delta": 0.05,
+    "mlp_width": 32,
+    "mlp_steps": 120,
+    "mlp_batch_size": 256,
+    "mlp_parallel_models": 32,
+    "cpu_workers": 8
+  }
+}

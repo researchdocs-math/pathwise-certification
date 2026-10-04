@@ -1,0 +1,14 @@
+{
+  "dataset": "wine_red",
+  "family": "mlp",
+  "seed": 3911,
+  "train_n": 1119,
+  "test_n": 480,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 4.251881792006316,
+  "eval_seconds": 8.44311404202017,
+  "total_seconds": 12.986192042008042,
+  "device": "mps",
+  "path_kind": "coordinate"
+}

@@ -1,0 +1,13 @@
+{
+  "dataset": "breast",
+  "family": "boosting",
+  "seed": 2909,
+  "train_n": 398,
+  "test_n": 171,
+  "queries": 24,
+  "search_seconds": 0.9679966249968857,
+  "cert_seconds": 1.9196136250102427,
+  "eval_seconds": 3.3079001249861903,
+  "total_seconds": 6.226113165990682,
+  "device": "cpu"
+}

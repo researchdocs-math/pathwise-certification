@@ -1,0 +1,5 @@
+comparator,paired_queries,mean_relative_cost,median_relative_cost
+persistent_bonferroni,2584,-0.02991745319,-0.01694920347
+persistent_fixed,2782,0.02754661468,0
+persistent_spending,2708,-0.01434523444,0
+pointwise_fst,2782,0.007762973503,0

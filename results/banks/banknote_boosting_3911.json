@@ -1,0 +1,13 @@
+{
+  "dataset": "banknote",
+  "family": "boosting",
+  "seed": 3911,
+  "train_n": 960,
+  "test_n": 412,
+  "queries": 24,
+  "search_seconds": 1.0783303749922197,
+  "cert_seconds": 2.405406999983825,
+  "eval_seconds": 4.221113250008784,
+  "total_seconds": 7.733616624987917,
+  "device": "cpu"
+}

@@ -1,0 +1,13 @@
+{
+  "dataset": "sonar",
+  "family": "logistic",
+  "seed": 2909,
+  "train_n": 145,
+  "test_n": 63,
+  "queries": 24,
+  "search_seconds": 0.9387818340037484,
+  "cert_seconds": 0.7446021669893526,
+  "eval_seconds": 0.9219853329996113,
+  "total_seconds": 2.644591041986132,
+  "device": "cpu"
+}

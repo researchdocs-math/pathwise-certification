@@ -1,0 +1,14 @@
+{
+  "dataset": "wine_white",
+  "family": "boosting",
+  "seed": 3911,
+  "train_n": 2000,
+  "test_n": 1470,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 2.8025875000166707,
+  "eval_seconds": 5.023537375003798,
+  "total_seconds": 8.268808583001373,
+  "device": "cpu",
+  "path_kind": "coordinate"
+}

@@ -1,0 +1,14 @@
+{
+  "dataset": "breast",
+  "family": "mlp",
+  "seed": 1907,
+  "train_n": 398,
+  "test_n": 171,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 9.420795833022567,
+  "eval_seconds": 20.214711916982196,
+  "total_seconds": 30.390257749997545,
+  "device": "mps",
+  "path_kind": "coordinate"
+}

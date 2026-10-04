@@ -1,0 +1,14 @@
+{
+  "dataset": "spambase",
+  "family": "boosting",
+  "seed": 1907,
+  "train_n": 2000,
+  "test_n": 1381,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 7.785517000011168,
+  "eval_seconds": 14.907176874985453,
+  "total_seconds": 23.206338166986825,
+  "device": "cpu",
+  "path_kind": "coordinate"
+}

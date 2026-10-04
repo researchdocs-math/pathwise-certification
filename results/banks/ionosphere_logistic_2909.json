@@ -1,0 +1,13 @@
+{
+  "dataset": "ionosphere",
+  "family": "logistic",
+  "seed": 2909,
+  "train_n": 245,
+  "test_n": 106,
+  "queries": 24,
+  "search_seconds": 0.9498053329880349,
+  "cert_seconds": 0.746577875019284,
+  "eval_seconds": 0.8858394169947132,
+  "total_seconds": 2.6167938330036122,
+  "device": "cpu"
+}

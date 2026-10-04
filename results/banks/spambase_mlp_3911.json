@@ -1,0 +1,13 @@
+{
+  "dataset": "spambase",
+  "family": "mlp",
+  "seed": 3911,
+  "train_n": 2000,
+  "test_n": 1381,
+  "queries": 24,
+  "search_seconds": 0.542183749988908,
+  "cert_seconds": 4.186891124991234,
+  "eval_seconds": 8.311961667001015,
+  "total_seconds": 13.081063791003544,
+  "device": "mps"
+}

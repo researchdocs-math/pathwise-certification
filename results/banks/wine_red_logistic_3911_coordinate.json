@@ -1,0 +1,14 @@
+{
+  "dataset": "wine_red",
+  "family": "logistic",
+  "seed": 3911,
+  "train_n": 1119,
+  "test_n": 480,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 0.7117015840194654,
+  "eval_seconds": 0.8768060409929603,
+  "total_seconds": 2.0027661659987643,
+  "device": "cpu",
+  "path_kind": "coordinate"
+}

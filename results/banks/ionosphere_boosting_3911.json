@@ -1,0 +1,13 @@
+{
+  "dataset": "ionosphere",
+  "family": "boosting",
+  "seed": 3911,
+  "train_n": 245,
+  "test_n": 106,
+  "queries": 24,
+  "search_seconds": 1.0282582090003416,
+  "cert_seconds": 1.9119209159980528,
+  "eval_seconds": 3.218197791982675,
+  "total_seconds": 6.192334249994019,
+  "device": "cpu"
+}

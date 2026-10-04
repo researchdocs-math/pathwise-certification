@@ -1,0 +1,13 @@
+{
+  "dataset": "magic",
+  "family": "mlp",
+  "seed": 3911,
+  "train_n": 2000,
+  "test_n": 5706,
+  "queries": 24,
+  "search_seconds": 0.5485814580169972,
+  "cert_seconds": 4.29623008298222,
+  "eval_seconds": 8.505079290975118,
+  "total_seconds": 13.395281584002078,
+  "device": "mps"
+}

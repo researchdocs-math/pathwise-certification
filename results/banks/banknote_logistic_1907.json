@@ -1,0 +1,13 @@
+{
+  "dataset": "banknote",
+  "family": "logistic",
+  "seed": 1907,
+  "train_n": 960,
+  "test_n": 412,
+  "queries": 24,
+  "search_seconds": 0.9363800419960171,
+  "cert_seconds": 0.6955367079935968,
+  "eval_seconds": 0.8323933749925345,
+  "total_seconds": 2.4927159170038067,
+  "device": "cpu"
+}

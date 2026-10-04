@@ -1,0 +1,14 @@
+{
+  "dataset": "spambase",
+  "family": "mlp",
+  "seed": 2909,
+  "train_n": 2000,
+  "test_n": 1381,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 4.2184071249794215,
+  "eval_seconds": 8.468537791020935,
+  "total_seconds": 12.991056500002742,
+  "device": "mps",
+  "path_kind": "coordinate"
+}

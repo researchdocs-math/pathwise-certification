@@ -1,0 +1,14 @@
+{
+  "dataset": "sonar",
+  "family": "boosting",
+  "seed": 1907,
+  "train_n": 145,
+  "test_n": 63,
+  "queries": 24,
+  "search_seconds": 0.0,
+  "cert_seconds": 1.835296333010774,
+  "eval_seconds": 3.107732999982545,
+  "total_seconds": 5.385382832988398,
+  "device": "cpu",
+  "path_kind": "coordinate"
+}

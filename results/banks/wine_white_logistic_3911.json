@@ -1,0 +1,13 @@
+{
+  "dataset": "wine_white",
+  "family": "logistic",
+  "seed": 3911,
+  "train_n": 2000,
+  "test_n": 1470,
+  "queries": 24,
+  "search_seconds": 0.9968764579971321,
+  "cert_seconds": 0.7660434169811197,
+  "eval_seconds": 0.9605900839960668,
+  "total_seconds": 2.75922583299689,
+  "device": "cpu"
+}

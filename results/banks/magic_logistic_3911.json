@@ -1,0 +1,13 @@
+{
+  "dataset": "magic",
+  "family": "logistic",
+  "seed": 3911,
+  "train_n": 2000,
+  "test_n": 5706,
+  "queries": 24,
+  "search_seconds": 0.9632914170215372,
+  "cert_seconds": 0.7833650420070626,
+  "eval_seconds": 1.0170677909918595,
+  "total_seconds": 2.811435374984285,
+  "device": "cpu"
+}

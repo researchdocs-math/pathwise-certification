@@ -1,0 +1,12 @@
+{
+  "settings": 144,
+  "path_query_cases": 3450,
+  "unique_queries": 1725,
+  "models_per_setting": 1569,
+  "model_instances_across_settings": 112968,
+  "search_seconds_sum": 79.6882245860179,
+  "cert_seconds_sum": 501.2234599998337,
+  "evaluation_seconds_sum": 949.3578029079654,
+  "sum_setting_seconds": 1564.6926253769489,
+  "mean_lazy_query_fraction": 0.4622619303445967
+}

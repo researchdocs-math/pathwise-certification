@@ -1,0 +1,13 @@
+{
+  "dataset": "banknote",
+  "family": "mlp",
+  "seed": 1907,
+  "train_n": 960,
+  "test_n": 412,
+  "queries": 24,
+  "search_seconds": 2.373875332996249,
+  "cert_seconds": 7.711424749984872,
+  "eval_seconds": 8.265380958007881,
+  "total_seconds": 18.37772395799402,
+  "device": "mps"
+}
